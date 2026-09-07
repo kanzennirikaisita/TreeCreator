@@ -1,6 +1,12 @@
 # TreeCreator
 
-フォルダ構造を画面またはインデント付きテキストで設計し、空フォルダだけを含むZIPとして出力するツールです。ブラウザ内で完結し、入力内容を外部へ送信しません。\n\n## ブラウザで使う\n\n**[TreeCreatorを開く](https://kanzennirikaisita.github.io/TreeCreator/)**\n\nインストールせず、そのままブラウザで利用できます。
+フォルダ構造を画面またはインデント付きテキストで設計し、空フォルダだけを含むZIPとして出力するツールです。ブラウザ内で完結し、入力内容を外部へ送信しません。
+
+## ブラウザで使う
+
+**[TreeCreatorを開く](https://kanzennirikaisita.github.io/TreeCreator/)**
+
+インストールせず、そのままブラウザで利用できます。
 
 ## 使い方
 
